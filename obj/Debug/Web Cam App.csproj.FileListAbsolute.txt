@@ -1,0 +1,17 @@
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 2\Web Cam App\Web Cam App\bin\Debug\Web Cam App.exe.config
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 2\Web Cam App\Web Cam App\bin\Debug\Web Cam App.exe
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 2\Web Cam App\Web Cam App\bin\Debug\Web Cam App.pdb
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 2\Web Cam App\Web Cam App\bin\Debug\AForge.dll
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 2\Web Cam App\Web Cam App\bin\Debug\AForge.Video.DirectShow.dll
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 2\Web Cam App\Web Cam App\bin\Debug\AForge.Video.dll
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 2\Web Cam App\Web Cam App\bin\Debug\AForge.xml
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 2\Web Cam App\Web Cam App\bin\Debug\AForge.Video.xml
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 2\Web Cam App\Web Cam App\bin\Debug\AForge.Video.DirectShow.xml
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 2\Web Cam App\Web Cam App\obj\Debug\Web Cam App.csproj.AssemblyReference.cache
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 2\Web Cam App\Web Cam App\obj\Debug\Web_Cam_App.Form1.resources
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 2\Web Cam App\Web Cam App\obj\Debug\Web_Cam_App.Properties.Resources.resources
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 2\Web Cam App\Web Cam App\obj\Debug\Web Cam App.csproj.GenerateResource.cache
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 2\Web Cam App\Web Cam App\obj\Debug\Web Cam App.csproj.CoreCompileInputs.cache
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 2\Web Cam App\Web Cam App\obj\Debug\Web Cam App.csproj.CopyComplete
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 2\Web Cam App\Web Cam App\obj\Debug\Web Cam App.exe
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 2\Web Cam App\Web Cam App\obj\Debug\Web Cam App.pdb
