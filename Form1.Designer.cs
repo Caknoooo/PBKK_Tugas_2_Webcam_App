@@ -68,15 +68,17 @@
             this.buttonStart.TabIndex = 2;
             this.buttonStart.Text = "Start";
             this.buttonStart.UseVisualStyleBackColor = true;
+            this.buttonStart.Click += new System.EventHandler(this.buttonStart_Click);
             // 
             // buttonCapture
             // 
             this.buttonCapture.Location = new System.Drawing.Point(874, 278);
             this.buttonCapture.Name = "buttonCapture";
-            this.buttonCapture.Size = new System.Drawing.Size(138, 38);
+            this.buttonCapture.Size = new System.Drawing.Size(138, 46);
             this.buttonCapture.TabIndex = 3;
             this.buttonCapture.Text = "Capture";
             this.buttonCapture.UseVisualStyleBackColor = true;
+            this.buttonCapture.Click += new System.EventHandler(this.buttonCapture_Click);
             // 
             // buttonSave
             // 
@@ -88,6 +90,7 @@
             this.buttonSave.TabIndex = 4;
             this.buttonSave.Text = "Save";
             this.buttonSave.UseVisualStyleBackColor = false;
+            this.buttonSave.Click += new System.EventHandler(this.buttonSave_Click);
             // 
             // buttonExit
             // 
@@ -99,6 +102,7 @@
             this.buttonExit.TabIndex = 5;
             this.buttonExit.Text = "Exit";
             this.buttonExit.UseVisualStyleBackColor = false;
+            this.buttonExit.Click += new System.EventHandler(this.buttonExit_Click);
             // 
             // tableLayoutPanel1
             // 
@@ -134,6 +138,7 @@
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox2.TabIndex = 1;
             this.pictureBox2.TabStop = false;
+            this.pictureBox2.Click += new System.EventHandler(this.pictureBox2_Click);
             // 
             // Form1
             // 
